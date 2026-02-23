@@ -188,6 +188,10 @@ This release introduces new features including GIF animation support, wandb run 
 
 - Fix Slack domain link [\#288](https://github.com/mllam/neural-lam/pull/288) @sadamov
 
+### Fixed
+
+- Add missing MEPS datastore config yaml to datastore_examples [\#225](https://github.com/mllam/neural-lam/pull/225) @shauryam2807
+
 ### Maintenance
 
 - Update PR template to clarify milestone/roadmap requirement and maintenance changes [\#186](https://github.com/mllam/neural-lam/pull/186) @joeloskarsson
